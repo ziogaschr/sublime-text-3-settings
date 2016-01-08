@@ -1,0 +1,56 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/predawn Monokai (SL).tmTheme",
+	"detect_indentation": false,
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.sublime-workspace"
+	],
+	"font_options": "subpixel_antialias",
+	"font_size": 19.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_files": false,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"open_files_in_new_window": false,
+	"predawn_findreplace_small": true,
+	"predawn_quick_panel_small": true,
+	"predawn_sidebar_arrows": true,
+	"predawn_tabs_medium": true,
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"theme": "predawn-DEV.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 120
+}

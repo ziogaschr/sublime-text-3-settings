@@ -1,0 +1,6 @@
+[
+	{ "keys": ["super+ctrl+alt+down"], "command": "goto_definition" },
+	{ "keys": ["ctrl+s"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+j"], "command": "join_lines" },
+	{ "keys": ["ctrl+shift+alt+t"], "command": "expand_tabs", "args" : {"set_translate_tabs" : true} }
+]

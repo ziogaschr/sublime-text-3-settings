@@ -1,0 +1,7 @@
+{
+	// "target": "console_exec",
+	"cmd": ["php", "packer/agripro.php"],
+	"working_dir": "/Users/Destiny/Sites/iris/agripro_v2/components/com_agripro/assets/js",
+	// "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.php"
+}
